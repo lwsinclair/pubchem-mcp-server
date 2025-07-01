@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/augmented-nature-pubchem-mcp-server-badge.png)](https://mseep.ai/app/augmented-nature-pubchem-mcp-server)
+
 # PubChem MCP Server
 
 A Model Context Protocol (MCP) server for retrieving chemical compound data from PubChem database.
